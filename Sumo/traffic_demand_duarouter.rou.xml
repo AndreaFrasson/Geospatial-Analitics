@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-01-21 16:52:25 by Eclipse SUMO duarouter Version 1.19.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="Sumo/osm.net.xml"/>
+        <route-files value="Sumo/my_trips.xml"/>
+    </input>
+
+    <output>
+        <output-file value="Sumo/traffic_demand_duarouter.rou.xml"/>
+    </output>
+
+</configuration>
