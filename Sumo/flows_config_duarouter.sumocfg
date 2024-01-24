@@ -7,7 +7,7 @@
 
     <input>
         <net-file value="osm.net.xml.gz"/>
-        <route-files value="uniform_traffic_demand.rou.xml"/>
+        <route-files value="proportional_traffic_demand.rou.xml"/>
         <additional-files value="osm.poly.xml.gz"/>
     </input>
 
